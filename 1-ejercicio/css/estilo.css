@@ -1,0 +1,11 @@
+h4 {
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+	text-shadow: 1px 1px 10px blue;
+    
+}
+
+body {
+    background-color:beige;
+}
