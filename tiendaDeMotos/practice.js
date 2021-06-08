@@ -21,7 +21,7 @@ console.log("\nVendedor:Buena elección, ¿pero usted cumple con los requisitos?
 
 if( edadComprador >= 18){
     console.log("\nComprador:Así es, tengo", edadComprador, "años.")
-}else{( edadComprador < 18)
+}else( edadComprador < 18){
     console.log("\nComprador:Ah... no sabia que tenia que tener 18.")
     console.log("\nVendedor:Entonces lamentablemente no podrá comprar la moto.")
     return
